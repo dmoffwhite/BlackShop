@@ -1,0 +1,15 @@
+.card-style{
+    max-width: 20rem;
+    margin-top: 20px;
+    min-height: 28rem;
+    flex: 1;
+}
+
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
